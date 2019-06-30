@@ -1,12 +1,8 @@
 import React from 'react';
+import Home from './pages/Home';
 
 function App() {
-  return (
-	  <div>
-	  <a href="/resume">resume</a>
-	  <a href="/pagination">pagination</a>
-	  </div>
-  );
+	return <Home />;
 }
 
 export default App;
