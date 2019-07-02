@@ -3,3 +3,7 @@
 	display: block;
 	margin: auto;
 }
+
+.container {
+	max-width: 768px;
+}
