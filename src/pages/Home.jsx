@@ -31,6 +31,9 @@ const Home = () => {
 								<a class="navbar-item" href="/keyboard-navigable-table">
 									keyboard-navigable-table
 								</a>
+								<a class="navbar-item" href="/connect-four">
+									connect-four
+								</a>
 							</div>
 						</div>
 					</div>
