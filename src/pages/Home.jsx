@@ -45,9 +45,18 @@ const Home = () => {
 					</div>
 				</div>
 			</nav>
-			<h1 className="title has-text-centered">
-				elpopisencio - web developer
-			</h1>
+		<section class="hero">
+		  <div class="hero-body">
+		    <div class="container">
+		      <h1 class="title">
+		Hi, I'm Jorge.
+		      </h1>
+		      <h2 class="subtitle">
+		And this is my page.
+		      </h2>
+		    </div>
+		  </div>
+		</section>
 		</div>
 	);
 };
